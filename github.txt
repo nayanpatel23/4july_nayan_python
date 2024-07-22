@@ -1,0 +1,10 @@
+echo "# 4july_nayan_python" >> README.md        git link = https://github.com/nayanpatel23/4july_nayan_python.git
+
+git add .
+git commit -m "first commit"
+git push -u origin master
+
+
+
+ git config --global user.email "nayanbhalodiya123@gmail.com"
+ git config --global user.name "nayanpatel23"
